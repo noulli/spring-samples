@@ -1,0 +1,8 @@
+#Mon Jan 22 11:05:39 CST 2024
+azk.hive.action=execute.query
+azkaban_execute_disable=false
+dependencies=
+job.alias.name=default_F9D50E
+timeout.kill.ms=604800000
+type=hivejdbc
+job.id=default_F9D50E
