@@ -1,0 +1,8 @@
+#Tue Mar 19 11:28:42 CST 2024
+flow[0].name=gingertest1
+flow[0].objectId=gingertest1
+flow[0].ruleId=11770
+flow[0].ruleType=1
+flow[0].channelIds=1,4
+flow[0].flowOwner=true
+flow[0].customUsers=wb.zhanqi01@mesg.corp.netease.com,wei.chen@corp.netease.com
