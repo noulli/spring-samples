@@ -1,0 +1,6 @@
+#Sun Jul 31 21:59:08 CST 2022
+azkaban_execute_disable=false
+dependencies=job1
+type=noop
+
+job.id=xx失败
