@@ -1,0 +1,8 @@
+#Tue Feb 07 15:20:17 CST 2023
+azkaban_execute_disable=false
+dependencies=
+script=\ ${base.working.dir}/sleep.sh
+timeout.kill.ms=604800000
+type=script
+
+job.id=default_632C1D
