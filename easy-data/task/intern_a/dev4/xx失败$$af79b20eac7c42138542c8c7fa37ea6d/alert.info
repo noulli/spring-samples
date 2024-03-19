@@ -1,7 +1,7 @@
-#Tue Mar 19 11:15:56 CST 2024
+#Tue Mar 19 11:28:57 CST 2024
 flow[0].name=xx\u5931\u8D25
 flow[0].objectId=xx\u5931\u8D25
-flow[0].ruleId=11769
+flow[0].ruleId=11771
 flow[0].ruleType=1
 flow[0].recycleSetting.maxTimes=10
 flow[0].recycleSetting.interval=120000
