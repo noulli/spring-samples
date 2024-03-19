@@ -1,10 +1,10 @@
-#Tue Mar 19 11:12:34 CST 2024
+#Tue Mar 19 11:15:56 CST 2024
 flow[0].name=xx\u5931\u8D25
 flow[0].objectId=xx\u5931\u8D25
-flow[0].ruleId=11768
+flow[0].ruleId=11769
 flow[0].ruleType=1
 flow[0].recycleSetting.maxTimes=10
 flow[0].recycleSetting.interval=120000
 flow[0].channelIds=4
 flow[0].flowOwner=true
-flow[0].customUsers=wei.chen@corp.netease.com,linajun@corp.netease.com
+flow[0].customUsers=wb.zhanqi01@mesg.corp.netease.com,wei.chen@corp.netease.com
