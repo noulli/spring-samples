@@ -1,0 +1,7 @@
+#Wed Jun 26 16:29:12 CST 2024
+azkaban_execute_disable=false
+dependencies=hive_6AF19643,hive_7C30D843,hive_8106CE35,hive_E3F75A2B,hive_5BD25155
+job.alias.name=sql_test
+type=noop
+
+job.id=sql_test

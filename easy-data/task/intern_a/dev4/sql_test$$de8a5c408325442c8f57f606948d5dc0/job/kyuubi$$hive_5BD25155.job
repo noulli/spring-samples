@@ -1,0 +1,13 @@
+#Wed Jun 26 16:31:52 CST 2024
+azkaban_execute_disable=false
+conf.spark.dynamicAllocation.maxExecutors=4
+dependencies=
+deploy-mode=kyuubi
+driver-memory=2048m
+executor-memory=2048m
+job.alias.name=kyuubi
+spark.masterType=yarn
+sparkServer.uid=kyuubi-default3
+timeout.kill.ms=604800000
+type=sparksql
+job.id=hive_5BD25155
